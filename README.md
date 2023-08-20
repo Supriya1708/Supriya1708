@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Supriya1708
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on Google.
-- 📫 How to reach me ...
+- 📫 Mail me at bollampallysupriya@gmail.com
 
 <!---
 Supriya1708/Supriya1708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
